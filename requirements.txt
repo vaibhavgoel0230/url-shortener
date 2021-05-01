@@ -29,7 +29,6 @@ Pint==0.14
 plac==0.9.6
 preshed==2.0.1
 pyparsing==2.4.7
-pypiwin32==223
 python-dateutil==2.8.1
 python-dotenv==0.17.1
 pyttsx3==2.90
