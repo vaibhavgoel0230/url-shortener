@@ -8,7 +8,6 @@ comtypes==1.1.7
 control==0.8.4
 cycler==0.10.0
 cymem==2.0.3
-en-core-web-sm==2.1.0
 Flask==1.1.2
 gunicorn==20.1.0
 idna==2.10
